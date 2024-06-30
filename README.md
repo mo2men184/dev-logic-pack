@@ -5,7 +5,7 @@ Welcome to the **Flutter Business Logic Projects** repository! This collection s
 
 ## 📽 Preview
 
-![App Demo](preview/LOGIC.gif)
+![App Demo](preview/LOGIC.png)
 
 
 ## 📚 Projects Overview
