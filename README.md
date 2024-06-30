@@ -3,6 +3,11 @@
 
 Welcome to the **Flutter Business Logic Projects** repository! This collection showcases a variety of Flutter applications demonstrating best practices in state management, API integration, authentication, and more. Each project is designed to be a comprehensive, educational resource for developers looking to enhance their Flutter skills and build robust, scalable applications.
 
+## 📽 Preview
+
+![App Demo](preview/LOGIC.gif)
+
+
 ## 📚 Projects Overview
 
 ### 📋 [CRUD App](https://github.com/mo2men184/crud_app)
@@ -49,8 +54,14 @@ This project is licensed under the MIT License.
 
 ---
 
-💡 **Tip:** Customize this template to fit your specific use case. Happy coding! 🎉
-
 ## About the Developer 🌟
 
-- **👨‍💻Mo'men M.** is passionate about creating efficient and user-friendly mobile applications. With expertise in Flutter and Firebase, Mo'men focuses on delivering robust solutions that enhance user experiences and meet business objectives.
+**👨‍💻Mo'men M.** is passionate about creating efficient and user-friendly mobile applications. With expertise in Flutter and Firebase, Mo'men focuses on delivering robust solutions that enhance user experiences and meet business objectives.
+
+- 🌐 Website: [mmdev.studio](https://mmdev.studio/)
+- 💼 LinkedIn: [mm-devstudio](https://www.linkedin.com/in/mm-devstudio/)
+- 📸 Instagram: [devstudio_mm](https://www.instagram.com/devstudio_mm/)
+- 📝 Upwork: [Mo'men M. on Upwork](https://upwork.com/freelancers/mo2men184)
+- 💻 Freelancer: [devmo2 on Freelancer](https://www.freelancer.com/u/devmo2)
+- 📧 Email: [dev.moamen.sr@gmail.com](mailto:dev.moamen.sr@gmail.com)
+
