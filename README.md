@@ -1,5 +1,5 @@
 # DEV PACK - Logic
-## Flutter Business Logic Projects 📱💡
+## ⚛Flutter Business Logic Projects 📱💡
 
 Welcome to the **Flutter Business Logic Projects** repository! This collection showcases a variety of Flutter applications demonstrating best practices in state management, API integration, authentication, and more. Each project is designed to be a comprehensive, educational resource for developers looking to enhance their Flutter skills and build robust, scalable applications.
 
